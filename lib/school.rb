@@ -17,7 +17,7 @@ class School
   end 
   
   def sort 
-    School.
+    School.roster.each do |
   end 
     
 end 
